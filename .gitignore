@@ -182,3 +182,5 @@ pip-selfcheck.json
 
 #docker persistent data for postgres
 /data
+
+.vscode
